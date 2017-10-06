@@ -5,9 +5,7 @@ MonaStreet.States = {};
 
 // game state
 MonaStreet.States.GameState = {
-	preload: () => {
-		console.log("hello");
-	},
+	preload: () => {},
 	create: () => {},
 	updare: () => {}
 };
