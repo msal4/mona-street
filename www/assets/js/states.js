@@ -1,3 +1,4 @@
+// game holder to keep the global object clean
 let MonaStreet = {};
 
 // states holder
@@ -181,10 +182,8 @@ MonaStreet.States.GameState = {
 				this.hazardsRight.properties.spawnPoint.y,
 				"circle"
 			);
-			console.log("null");
 		} else {
 			coin.reset(xSpawn, this.hazardsRight.properties.spawnPoint.y);
-			console.log("notNull");
 		}
 		coin.anchor.set(x);
 		coin.scale.set(0.5);
