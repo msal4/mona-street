@@ -1,4 +1,3 @@
-// game holder to keep the global object clean
 let MonaStreet = {};
 
 // states holder
