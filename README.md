@@ -2,4 +2,4 @@
 
 ## Switch between dimensions and avoid the obstacles
 
-![screenshot][https://screenshots.firefox.com/C9gnthkEdAFapUBL/msal4.github.io]
+![screenshot][https://screenshotscdn.firefoxusercontent.com/images/704a9e2f-d7d2-47bf-a6ce-cfd413e5304b.png]
